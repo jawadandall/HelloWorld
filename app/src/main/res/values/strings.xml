@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="introString">Hello World! Over time, most things fade away.</string>
+</resources>
